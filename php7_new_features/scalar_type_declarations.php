@@ -3,6 +3,7 @@ ini_set('error_reporting', E_ALL & ~E_NOTICE);
  
 /**
  *  @author Amit Joshi
+ *  @version 1.0
  *  
  *  Two types of the scalar type declatation 
  *      1. coercive (default) 
