@@ -17,7 +17,7 @@ ini_set('error_reporting', E_ALL & ~E_NOTICE);
 
 function getSumofInt( int $a , int $b)
 {
-    return ($a + $b);
+    return ($a + $b); 
 }
 
 //the default coercive
