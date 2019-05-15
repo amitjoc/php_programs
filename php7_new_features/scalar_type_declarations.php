@@ -7,7 +7,7 @@ ini_set('error_reporting', E_ALL & ~E_NOTICE);
  *  
  *  Two types of the scalar type declatation 
  *      1. coercive (default) 
- *      2. strict  declare(strict_types=1);
+ *      2. strict  declare(strict_types=1); 
  *      
  */
 
