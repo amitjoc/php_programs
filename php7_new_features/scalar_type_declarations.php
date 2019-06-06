@@ -20,11 +20,23 @@ function getSumofInt( int $a , int $b)
     return ($a + $b);
 }
 
+/**
+ * bbr is line break function for browser
+ * if you pass true then it will print hr line instead of
+ * 
+ *  
+ */
+function bbr($hr_line=false){
+    $line_break = '<br />';
+    if($hr_line) $line_break = '<hr />';
+    
+    return $line_break;
+}
 //the default coercive
-echo 'Default Coercie : ' .PHP_EOL ;
-echo getSumofInt(4, 5).PHP_EOL;
-echo getSumofInt(4, '5 person').PHP_EOL;
-echo getSumofInt(4, 5.5).PHP_EOL;
-echo getSumofInt(4.5, 5.2).PHP_EOL;
+echo 'Default Coercie : ' .PHP_EOL.bbr(true) ;
+echo getSumofInt(4, 5).PHP_EOL.bbr();
+echo getSumofInt(4, '5 person').PHP_EOL.bbr();
+echo getSumofInt(4, 5.5).PHP_EOL.bbr();
+echo getSumofInt(4.5, 5.2).PHP_EOL.bbr();
  
 ?>
