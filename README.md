@@ -4,6 +4,7 @@ Colletions of php programs and interview questions
 **Php7 New Features**
 
 1. [Scalar type declarations](php7_new_features/scalar_type_declarations.php)
+2. [Return type declarations](php7_new_features/return_type_declaration.php)
 
 **Program List** 
 
