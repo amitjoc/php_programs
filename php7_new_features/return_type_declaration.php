@@ -16,4 +16,6 @@ function add_integers(int $num1, int $num2) :int {
 //expected output 6
 echo add_integers(2, 4);
 
+ 
+
 ?>
