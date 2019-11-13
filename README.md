@@ -14,3 +14,13 @@ Colletions of php programs and interview questions
 4. Palindrome number
 5. Factorial
 6. Swap two numbers
+
+**Pattern Print**
+
+Patter 1 
+
+        A
+       ABA
+      ABCBA
+     ABCDCBA
+    ABCDEDCBA
