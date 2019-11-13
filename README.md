@@ -17,10 +17,19 @@ Colletions of php programs and interview questions
 
 **Pattern Print**
 
-Patter 1 
+Pattern 1 
 
         A
        ABA
       ABCBA
      ABCDCBA
     ABCDEDCBA
+    
+ Pattern 2  
+ 
+         1
+        121
+       12321
+      1234321
+     123454321
+    12345654321
