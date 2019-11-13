@@ -9,3 +9,8 @@ Colletions of php programs and interview questions
 **Program List** 
 
 1. [Fabionacci Series](programming_problems/fabionacci_series.php)
+2. Even or odd number
+3. Armstrong number
+4. Palindrome number
+5. Factorial
+6. Swap two numbers
