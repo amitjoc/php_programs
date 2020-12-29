@@ -1,0 +1,25 @@
+{
+	"authors" : [{
+			"name" : "Amit Joshi",
+			"email" : "amitjoc@gmail.com"
+		}
+	],
+	"name" : "amitjoc/php_programs",
+	"description" : "php learning",
+	"type" : "project",
+	"license" : "MIT",
+	"keywords" : [
+		"php"
+	],
+	"repositories" : [{
+			"type" : "git",
+			"url" : "https://github.com/amitjoc/php_programs.git",
+			"name" : "php_programs"
+		}
+	],
+	"autoload" : {
+		"psr-4" : {
+			"oop\\" : "oop/"
+		}
+	}
+}
